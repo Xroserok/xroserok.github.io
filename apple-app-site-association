@@ -3,11 +3,11 @@
         "apps": [],
         "details": [
             {
-                "appID": "2MPDST5H78.au.com.evergenmobile",
+                "appID": "52YE4PWZ27.au.com.powershop.vpp",
                 "paths": ["/app/"]
             },
             {
-                "appID": "52YE4PWZ27.au.com.powershop.vpp",
+                "appID": "2MPDST5H78.au.com.evergenmobile",
                 "paths": ["/app/"]
             },
         ]
