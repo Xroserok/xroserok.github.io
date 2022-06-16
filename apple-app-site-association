@@ -4,7 +4,7 @@
         "details": [
             {
 		"appID": "E85N35G3YB.com.ridezoomo.riderapp.dev",
-		"paths": ["/*/update/"]
+		"paths": ["/*/update"]
             },
         ]
     }
